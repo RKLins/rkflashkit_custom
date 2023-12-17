@@ -1,1 +1,1 @@
-sudo python3.7 run.py
+python3.7 run.py
